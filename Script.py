@@ -19,7 +19,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.
 
 contact developer give source code 😊
 
-: <a href=https://github.com/parshucr123/STREAM-PRO>♀️ 𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊 ♀️</a></b>"""
+: <a href=https://github.com/parshucr123/STREAM-PRO/tree/PC-MOVIEZ>♀️ 𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊 ♀️</a></b>"""
                   
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
